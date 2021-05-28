@@ -58,7 +58,7 @@ div.a {
  <h4 style="color:white;"> Nos ajude a apoiar o Pitbull do Funk!:
 <br>
 <hr style="color:white;">
-"https://www.youtube.com/watch?v=p5uwnFxaJfM"
+<a href="https://www.youtube.com/watch?v=p5uwnFxaJfM"</a>
 <form action="/action_page.php">
  <label for="fname">Cartão:</label>
  <input type="text" id="fname" name="fname"><br><br>
