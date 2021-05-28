@@ -14,7 +14,7 @@
    Graças a sua personalidade forte e agressiva, ele se tornou um meme desde 2019. </p>
 <style> 
 div.a {
-   text-align: center;
+   text-align: jusitfy;
    font: 17px Arial;
 }
 </style>
